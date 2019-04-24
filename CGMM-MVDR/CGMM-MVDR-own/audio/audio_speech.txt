@@ -1,6 +1,0 @@
-./audio/F01_22HC010C_STR.CH1.Clean.wav
-./audio/F01_22HC010C_STR.CH2.Clean.wav
-./audio/F01_22HC010C_STR.CH3.Clean.wav
-./audio/F01_22HC010C_STR.CH4.Clean.wav
-./audio/F01_22HC010C_STR.CH5.Clean.wav
-./audio/F01_22HC010C_STR.CH6.Clean.wav

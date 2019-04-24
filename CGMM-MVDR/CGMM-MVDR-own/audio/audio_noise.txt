@@ -1,6 +1,0 @@
-./audio/F01_22HC010C_STR.CH1.Noise.wav
-./audio/F01_22HC010C_STR.CH2.Noise.wav
-./audio/F01_22HC010C_STR.CH3.Noise.wav
-./audio/F01_22HC010C_STR.CH4.Noise.wav
-./audio/F01_22HC010C_STR.CH5.Noise.wav
-./audio/F01_22HC010C_STR.CH6.Noise.wav
