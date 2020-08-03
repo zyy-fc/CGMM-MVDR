@@ -1,5 +1,11 @@
 # Implementation of CGMM-MVDR
 
+Update:
+
+The implementation of CGMM-MVDR with offline and online processing in Python have been completed. 
+-------------------
+Original:
+
 The implementation of CGMM-MVDR in Python based on [CGMM-MVDR](https://github.com/funcwj/CGMM-MVDR) 
 
 The Matlab version can been found in [cgmm-mask-estimator]().
